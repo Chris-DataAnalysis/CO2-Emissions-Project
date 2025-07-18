@@ -8,7 +8,7 @@ Dashboard
 
 ## Data Source
 
-The dataset used in this project is publicly available on Kaggle:
+The dataset used in this project is publicly available on github:
 
 **CO₂ Emissions Data** – [Data on CO2 and Greenhouse Gas Emissions by Our World in Data](https://github.com/owid/co2-data)
 
