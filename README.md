@@ -1,6 +1,6 @@
 # Global CO₂ Emissions Analysis
 
-An end-to-end data analysis project exploring global CO₂ emissions across countries, years, and fuel types using SQL for data wrangling and Tableau for interactive visualization.
+An end-to-end data analysis project exploring global CO₂ emissions across countries, years, and fuel types using SQL for data wrangling and Tableau for interactive visualisation.
 
 Dashboard
 
