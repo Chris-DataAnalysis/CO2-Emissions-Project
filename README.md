@@ -3,7 +3,7 @@
 This project analyzes global CO₂ emissions over the last decade, focusing on trends, fuel type contributions, and country-level shifts. The data was explored using SQL for querying, cleaned and structured appropriately, and visualized in Tableau to uncover meaningful insights about emission sources and patterns. The goal was to present a clear and compelling picture of how emissions have evolved over time and where the most significant changes are occurring.
 
 # Project Objectives
-Analyse global CO₂ emissions trends from 2013 to 2023
+Analyse global CO₂ emissions trends 
 
 Identify top CO₂-emitting countries and their primary fuel sources
 
